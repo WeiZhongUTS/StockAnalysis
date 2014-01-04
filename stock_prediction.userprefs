@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="stock_prediction/DataAnalysis.cs">
+    <Files>
+      <File FileName="stock_prediction/Program.cs" Line="33" Column="75" />
+      <File FileName="stock_prediction/HistoricalStock.cs" Line="49" Column="31" />
+      <File FileName="stock_prediction/HistoricalStockDownloader.cs" Line="1" Column="1" />
+      <File FileName="stock_prediction/project.txt" Line="1" Column="1" />
+      <File FileName="stock_prediction/valide_stock_code1.csv" Line="1" Column="1" />
+      <File FileName="stock_prediction/DataAnalysis.cs" Line="177" Column="112" />
+      <File FileName="stock_prediction/Math.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
